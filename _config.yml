@@ -1,0 +1,9 @@
+url: "https://spicata.github.io/shanmeis-notes/"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+collections:
